@@ -1,7 +1,21 @@
-html, body {
-  margin: 0;
-  padding: 0;
+html {
+  background-color:#333333;
 }
 canvas {
-  display: block;
+  display:flex;
+  margin:auto;
+}
+
+nav{
+  padding:10px 3%;
+}
+
+a{
+  color:aliceblue;
+}
+
+header{
+  font-size: 20px;
+  color:aliceblue;
+  text-align: center;
 }
